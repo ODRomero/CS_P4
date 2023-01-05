@@ -8,12 +8,12 @@ public class Principal {
 
 		System.out.println("Manzanas por colores");
 		System.out.println("---------------------");
-		Manzanas m1;
-		Manzanas m2;
+		Manzanas m1, m2, m3;
+		
 		 
 		m1= new Manzanas(4.5f,"verde");
-		m2= new Manzanas(4.5f,"roja");
-		
+		m2= new Manzanas(2.5f,"roja");
+		m3= new Manzanas(6.5f,"azul");
 		
 	}
 
