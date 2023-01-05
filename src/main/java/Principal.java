@@ -13,7 +13,7 @@ public class Principal {
 		 
 		m1= new Manzanas(4.5f,"verde");
 		m2= new Manzanas(2.5f,"roja");
-		m3= new Manzanas(6.5f,"azul");
+		m3= new Manzanas(7.5f,"azul");
 		
 	}
 
